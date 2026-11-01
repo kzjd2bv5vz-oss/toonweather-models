@@ -4,7 +4,48 @@
     "displayName": "Dreamscape",
     "triggerToken": "mydreamscape style",
     "sizeBytes": 660897792,
-    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/latest/download/dreamscape.mlmodelc.zip",
+    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/latest/download/v1.0/dreamscape.mlmodelc.zip",
     "sha256": "ce8bf368f7e8ba23b1396a84c5430d99d12e14cb8f3b4e2d61699a4eb5417648"
+  },
+  {
+    "id": "comics",
+    "displayName": "Comics",
+    "triggerToken": "mycomics style",
+    "sizeBytes": 661162307,
+    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/latest/download/v1.1/comics.mlmodelc.zip",
+    "sha256": "743646a19e1f9ffb0a3b8353aa7cf96e2f20575829b9c7624fd11ea4897a11f6"
+  },
+  {
+    "id": "mangabn",
+    "displayName": "Manga Black e White",
+    "triggerToken": "mymangabn style",
+    "sizeBytes": 661171645,
+    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/latest/download/v1.2/mangabn.mlmodelc.zip",
+    "sha256": "894683b5411bee500f1a44d717aec9393c560428e0eb23d300e80f4406338bcc"
+  },
+  {
+    "id": "cartoon",
+    "displayName": "Cartoon",
+    "triggerToken": "mycartoon style",
+    "sizeBytes": 661147729,
+    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/latest/download/v1.3/cartoon.mlmodelc.zip",
+    "sha256": "9b230709dbf7be3c343024bbeead4899bb01a09256dcbe30d92e450c869cdfd9"
+  },
+  {
+    "id": "manga",
+    "displayName": "Manga",
+    "triggerToken": "mymanga style",
+    "sizeBytes": 000000000,
+    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/latest/download/v1.4/manga.mlmodelc.zip",
+    "sha256": "HASH_DA_SHASUM"
+  },
+  {
+    "id": "anime",
+    "displayName": "Anime",
+    "triggerToken": "myanime style",
+    "sizeBytes": 000000000,
+    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/latest/download/v1.5/anime.mlmodelc.zip",
+    "sha256": "HASH_DA_SHASUM"
   }
 ]
+
