@@ -43,9 +43,9 @@
     "id": "anime",
     "displayName": "Anime",
     "triggerToken": "myanime style",
-    "sizeBytes": 000000000,
+    "sizeBytes": 661168870,
     "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/latest/download/v1.5/anime.mlmodelc.zip",
-    "sha256": "HASH_DA_SHASUM"
+    "sha256": "d1c7d9d64b25094c86402d0f61191a84b890313c880007aa68aab3ae40751731"
   }
 ]
 
