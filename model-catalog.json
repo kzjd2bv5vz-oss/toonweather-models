@@ -1,0 +1,10 @@
+[
+  {
+    "id": "dreamscape",
+    "displayName": "Dreamscape",
+    "triggerToken": "mydreamscape style",
+    "sizeBytes": 660897792,
+    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/latest/download/dreamscape.mlmodelc.zip",
+    "sha256": "ce8bf368f7e8ba23b1396a84c5430d99d12e14cb8f3b4e2d61699a4eb5417648"
+  }
+]
