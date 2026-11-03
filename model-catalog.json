@@ -4,15 +4,15 @@
     "displayName": "Dreamscape",
     "triggerToken": "mydreamscape style",
     "sizeBytes": 660897792,
-    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases//download/v1.0/dreamscape.mlmodelc.zip",
-    "sha256": "079f55ad658b11cf9025078a500a3fc0243490ba660062c7ce46803dd096b9ca"
+    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.0/dreamscape.mlmodelc.zip",
+    "sha256": "da480a0f4ebf200ab9a205e7dcb82a4624b6c2e1d34436b21efd9615bb1ba546"
   },
   {
     "id": "comics",
     "displayName": "Comics",
     "triggerToken": "mycomics style",
     "sizeBytes": 661162307,
-    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/latest/download/v1.1/comics.mlmodelc.zip",
+    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.1/comics.mlmodelc.zip",
     "sha256": "743646a19e1f9ffb0a3b8353aa7cf96e2f20575829b9c7624fd11ea4897a11f6"
   },
   {
@@ -20,7 +20,7 @@
     "displayName": "Manga Black e White",
     "triggerToken": "mymangabn style",
     "sizeBytes": 661171645,
-    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/latest/download/v1.2/mangabn.mlmodelc.zip",
+    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.2/mangabn.mlmodelc.zip",
     "sha256": "894683b5411bee500f1a44d717aec9393c560428e0eb23d300e80f4406338bcc"
   },
   {
@@ -28,7 +28,7 @@
     "displayName": "Cartoon",
     "triggerToken": "mycartoon style",
     "sizeBytes": 661147729,
-    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/latest/download/v1.3/cartoon.mlmodelc.zip",
+    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.3/cartoon.mlmodelc.zip",
     "sha256": "9b230709dbf7be3c343024bbeead4899bb01a09256dcbe30d92e450c869cdfd9"
   },
   {
@@ -36,7 +36,7 @@
     "displayName": "Manga",
     "triggerToken": "mymanga style",
     "sizeBytes": 661166249,
-    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/latest/download/v1.4/manga.mlmodelc.zip",
+    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.4/manga.mlmodelc.zip",
     "sha256": "e3e6b484b94a90eed16612463c190ca90d3047990c2efa493da7dc88837c44cd"
   },
   {
@@ -44,8 +44,7 @@
     "displayName": "Anime",
     "triggerToken": "myanime style",
     "sizeBytes": 661168870,
-    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/latest/download/v1.5/anime.mlmodelc.zip",
+    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.5/anime.mlmodelc.zip",
     "sha256": "d1c7d9d64b25094c86402d0f61191a84b890313c880007aa68aab3ae40751731"
   }
 ]
-
