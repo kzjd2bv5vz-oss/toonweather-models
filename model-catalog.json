@@ -16,13 +16,18 @@
     "sha256": "743646a19e1f9ffb0a3b8353aa7cf96e2f20575829b9c7624fd11ea4897a11f6"
   },
   {
-    "id": "mangabn",
-    "displayName": "Manga Black e White",
-    "triggerToken": "mymangabn style",
-    "sizeBytes": 661171645,
-    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.2/mangabn.mlmodelc.zip",
-    "sha256": "894683b5411bee500f1a44d717aec9393c560428e0eb23d300e80f4406338bcc"
-  },
+  "id": "mangabn",
+  "displayName": "Manga Black e White",
+  "displayNames": { "it": "Manga bianco e nero", "en": "Black & White Manga" },
+  "triggerToken": "tnwmangabn",
+  "sizeBytes": 904586096,
+  "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.5/mangabn.mlmodelc.zip",
+  "sha256": "aa850b05c999fda3746dd58048cebae4101407effa583a06fb7b6cf444268d02",
+  "version": 2,
+  "promptFormat": "leading",
+  "styleBoost": "black and white manga illustration",
+  "characterOrigin": false
+},
   {
     "id": "cartoon",
     "displayName": "Cartoon",
