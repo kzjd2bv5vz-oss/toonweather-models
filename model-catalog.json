@@ -2,10 +2,10 @@
   {
     "id": "dreamscape",
     "displayName": "Dreamscape",
-    "triggerToken": "mydreamscape style",
-    "sizeBytes": 660897792,
+    "triggerToken": "tnwpix",
+    "sizeBytes": 904595460,
     "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.0/dreamscape.mlmodelc.zip",
-    "sha256": "da480a0f4ebf200ab9a205e7dcb82a4624b6c2e1d34436b21efd9615bb1ba546"
+    "sha256": "5edd6a5a7f020ade1437ba4abb2f31949d4775f4f4c833e0a4ce25205eb5d327"
   },
   {
     "id": "comics",
