@@ -21,7 +21,7 @@
   "displayNames": { "it": "Manga bianco e nero", "en": "Black & White Manga" },
   "triggerToken": "tnwmangabn",
   "sizeBytes": 904586096,
-  "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.5/mangabn.mlmodelc.zip",
+  "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.2/mangabn.mlmodelc.zip",
   "sha256": "aa850b05c999fda3746dd58048cebae4101407effa583a06fb7b6cf444268d02",
   "version": 2,
   "promptFormat": "leading",
