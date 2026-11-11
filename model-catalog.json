@@ -8,13 +8,17 @@
     "sha256": "5edd6a5a7f020ade1437ba4abb2f31949d4775f4f4c833e0a4ce25205eb5d327"
   },
   {
-    "id": "comics",
-    "displayName": "Comics",
-    "triggerToken": "mycomics style",
-    "sizeBytes": 661162307,
-    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.1/comics.mlmodelc.zip",
-    "sha256": "743646a19e1f9ffb0a3b8353aa7cf96e2f20575829b9c7624fd11ea4897a11f6"
-  },
+  "id": "comics",
+  "displayName": "Comics",
+  "triggerToken": "tnwcomics",
+  "sizeBytes": 904585250,
+  "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.1/comics.mlmodelc.zip",
+  "sha256": "0fd7fecfaa44853ba0ffe4f397694415b7544ad210de247b364ed0a397f4b2bb",
+  "version": 2,
+  "promptFormat": "leading",
+  "styleBoost": "american comic book illustration",
+  "characterOrigin": true
+},
   {
   "id": "mangabn",
   "displayName": "Manga Black e White",
