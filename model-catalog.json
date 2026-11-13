@@ -33,12 +33,16 @@
   "characterOrigin": false
 },
   {
-    "id": "cartoon",
-    "displayName": "Cartoon",
-    "triggerToken": "mycartoon style",
-    "sizeBytes": 661147729,
-    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.3/cartoon.mlmodelc.zip",
-    "sha256": "9b230709dbf7be3c343024bbeead4899bb01a09256dcbe30d92e450c869cdfd9"
+  "id": "cartoon",
+  "displayName": "Cartoon",
+  "triggerToken": "tnwcartoon",
+  "sizeBytes": 904589688,
+  "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.3/cartoon.mlmodelc.zip",
+  "sha256": "30a216f9d1b41786b388cdb67f061ec4443d6e7f4defa9c0cafc4afa407ecf9f",
+  "version": 2,
+  "promptFormat": "leading",
+  "styleBoost": "cute 2D cartoon illustration",
+  "characterOrigin": true
   },
   {
     "id": "manga",
