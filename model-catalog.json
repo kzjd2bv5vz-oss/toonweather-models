@@ -45,12 +45,16 @@
   "characterOrigin": true
   },
   {
-    "id": "manga",
-    "displayName": "Manga",
-    "triggerToken": "mymanga style",
-    "sizeBytes": 661166249,
-    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.4/manga.mlmodelc.zip",
-    "sha256": "e3e6b484b94a90eed16612463c190ca90d3047990c2efa493da7dc88837c44cd"
+  "id": "manga",
+  "displayName": "Manga",
+  "triggerToken": "tnwmanga",
+  "sizeBytes": 904587386,
+  "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.4/manga.mlmodelc.zip",
+  "sha256": "7f0a645b493dbdbed5e2db5c438ea797ca71f1905a799b5587a53edf7e5075b8",
+  "version": 2,
+  "promptFormat": "leading",
+  "styleBoost": "colored japanese manga illustration",
+  "characterOrigin": false
   },
   {
   "id": "anime",
