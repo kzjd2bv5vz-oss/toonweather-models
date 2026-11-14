@@ -53,11 +53,15 @@
     "sha256": "e3e6b484b94a90eed16612463c190ca90d3047990c2efa493da7dc88837c44cd"
   },
   {
-    "id": "anime",
-    "displayName": "Anime",
-    "triggerToken": "myanime style",
-    "sizeBytes": 661168870,
-    "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.5/anime.mlmodelc.zip",
-    "sha256": "d1c7d9d64b25094c86402d0f61191a84b890313c880007aa68aab3ae40751731"
+  "id": "anime",
+  "displayName": "Anime",
+  "triggerToken": "tnwanime",
+  "sizeBytes": 904593260,
+  "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.5/anime.mlmodelc.zip",
+  "sha256": "fb4ec349d49d4c02aa81ec4a1abaaf381ae7eacb41b3ee6954b64a6c9697f7fd",
+  "version": 2,
+  "promptFormat": "leading",
+  "styleBoost": "japanese anime illustration",
+  "characterOrigin": false
   }
 ]
