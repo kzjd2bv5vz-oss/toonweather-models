@@ -67,5 +67,37 @@
   "promptFormat": "leading",
   "styleBoost": "japanese anime illustration",
   "characterOrigin": false
+  },
+  {
+  "id": "xmas",
+  "displayName": "Christmas",
+  "displayNames": {
+    "en": "Christmas",
+    "it": "Natale",
+    "fr": "Noël",
+    "es": "Navidad",
+    "ja": "クリスマス",
+    "zh": "圣诞"
+    },
+  "triggerToken": "tnwxmas",
+  "sizeBytes": 904587703,
+  "downloadURL": "https://github.com/kzjd2bv5vz-oss/toonweather-models/releases/download/v1.6/natale.mlmodelc.zip",
+  "sha256": "2aac1b60dba5c7a8ebb3ac091483dd151b34f1fc9f7c447b4aad7582299633a2",
+  "version": 1,
+  "promptFormat": "leading",
+  "styleBoost": "festive christmas 3d animated illustration",
+  "characterOrigin": true,
+  "availableFrom": "12-01",
+  "availableUntil": "01-06",
+  "symbol": "gift",
+  "badge": "Christmas",
+  "badges": {
+    "en": "Christmas",
+    "it": "Natale",
+    "fr": "Noël",
+    "es": "Navidad",
+    "ja": "クリスマス",
+    "zh": "圣诞"
+    }
   }
 ]
