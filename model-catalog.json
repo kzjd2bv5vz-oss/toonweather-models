@@ -87,17 +87,8 @@
   "promptFormat": "leading",
   "styleBoost": "festive christmas 3d animated illustration",
   "characterOrigin": true,
-  "availableFrom": "11-01",
+  "availableFrom": "12-01",
   "availableUntil": "01-06",
-  "symbol": "gift",
-  "badge": "Christmas",
-  "badges": {
-    "en": "Christmas",
-    "it": "Natale",
-    "fr": "Noël",
-    "es": "Navidad",
-    "ja": "クリスマス",
-    "zh": "圣诞"
-    }
+  "symbol": "gift"
   }
 ]
